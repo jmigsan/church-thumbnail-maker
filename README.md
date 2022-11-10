@@ -1,3 +1,3 @@
-# Miguels ICOC Thumbnail Maker
+# Miguel's ICOC Thumbnail Maker
 
 Creates YouTube Thumbnails. Inputs text and images. Outputs thumbnails.
